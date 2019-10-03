@@ -1,0 +1,5 @@
+.my-modal {
+  width: 800vw !important;    /* Occupy the 90% of the screen width */
+  max-width: 80vw !important;
+  /* padding-left: 5% !important; */
+} 
